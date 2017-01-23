@@ -67,7 +67,7 @@ body {
 i{position: relative;
 left: 11px;
 bottom: 1px;}
-#tweet-quote {
+.tweet-quote {
     float: left;
     padding: 0px;
     padding-top: 8px;
@@ -77,7 +77,7 @@ bottom: 1px;}
     width: 40px;
 }
 
-#new-quote {
+.new-quote {
     float: right;
     font-family: 'Microsoft YaHei';
 }
